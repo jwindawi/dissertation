@@ -6,7 +6,7 @@ I’m Théo from mStable. mStable is a Decentralized Stablecoins Ecosystem, desi
 
 A couple of weeks ago, we initiated with @hazard & @DaddyMatty a discussion about Keeper DAO Treasury which led to me coming to you today with a diversification/utilization idea for a portion of the treasury stablecoin currently sitting idle in the treasury
 
-##Context
+## Context
 
 Keeper DAO & mStable DAO have been collaborating during the past weeks on a product partnership that would use a new version of Keeper magic MEV bots inside the mStable AMM.
 
@@ -31,7 +31,7 @@ Save APY has historically been around 15%, significantly outperforming competiti
 image
 image1920×1115 107 KB
 
-##About Save strategy
+## About Save strategy
 
 mStable deposits 98% of mUSD’s underlying assets to established lending markets to earn a base interest rate. This rate is then further increased by distributing mStable Swap fees and liquidating external protocol incentives.
 
@@ -61,7 +61,7 @@ To get started, we recommend that KeeperDAO deposit funds in tranches of $500,00
 
 With 4 tranches of 500k over a year, the treasury would increase its treasury by $210,595 over a year which would be an 11% marginal rate (Save proceeds are automatically compounded
 
-##Benefits
+## Benefits
 
 Basically, with the aforementioned amount deposited into Save, Keeper DAO could pay with mStable Save APY its yearly contributors capital requirement
 
@@ -74,7 +74,7 @@ More generally, benefits would be:
     Non-operating revenue stream
     Seamless treasury management
 
-##Closing thoughts
+## Closing thoughts
 
 We would love KeeperDAO to be part of mStable Save. This product is a work in progress, improving it together will be mutually beneficial and will shape the future of DAOs economics and sustainability.
 
